@@ -41,7 +41,7 @@
 }
 
 .centerContainer{
-  flex: 6;
+  flex: 3;
   justify-content: center;
   align-items: center;
 }
