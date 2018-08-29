@@ -1,0 +1,42 @@
+{
+  "name": "contacts-manager",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.5.1",
+    "@material-ui/icons": "^2.0.3",
+    "@material/button": "^0.38.1",
+    "@trendmicro/react-anchor": "^0.5.6",
+    "@trendmicro/react-datepicker": "^1.0.0-alpha.6",
+    "@trendmicro/react-dropdown": "^1.2.3",
+    "axios": "^0.17.1",
+    "framework7-react": "^3.1.1",
+    "install": "^0.12.1",
+    "material-ui": "^0.20.2",
+    "material-ui-day-time-table": "^1.0.2",
+    "material-ui-pickers": "^1.0.0-rc.13",
+    "mdbreact": "^4.7.0",
+    "moment": "^2.22.2",
+    "npm": "^6.4.0",
+    "onsenui": "^2.10.4",
+    "prop-types": "^15.6.0",
+    "rc-time-picker": "^3.4.0",
+    "react": "^16.4.2",
+    "react-bootstrap": "^0.32.3",
+    "react-datepicker": "^1.6.0",
+    "react-dom": "^16.0.0",
+    "react-floating-button-menu": "^1.0.9",
+    "react-mfb": "^0.6.0",
+    "react-modal": "^3.5.1",
+    "react-onsenui": "^1.11.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
